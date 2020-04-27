@@ -21,6 +21,7 @@ pip install tensorflow-gpu
 pip install keras
 4.	Pygame:
 pip install pygame
+
 TO RUN:
                           Python DrowsinessDetection.py
   
