@@ -7,7 +7,9 @@ The proposed model detects and sounds an alarm when the driver is on the verge o
 This project uses:
 
 •	OpenCV for detecting the ROI from the driver's face
+
 •	Keras backed with Tensorflow to build the classification model
+
 •	Pygame for the alarm.
 
 SOLUTION:
